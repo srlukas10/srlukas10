@@ -2,5 +2,5 @@
 
 - 🤯 Atualmente trabalho com Front-end
 - 👾 Estudando Dart
-- 
+
 

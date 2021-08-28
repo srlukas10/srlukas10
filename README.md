@@ -1,4 +1,4 @@
-# Eae man, tudo joia?!
+# Eae, tudo joia?!
 
 👾 Seja bem vindo
 

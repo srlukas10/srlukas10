@@ -2,12 +2,12 @@
 
 👾 Seja bem vindo
 <div>
-  <img src="https://img.shields.io/badge/-console.log(Oi%2C%20eu%20fa%C3%A7o%20programa!)-orange">
+  <img src="https://img.shields.io/badge/-console.log(Oi%2C%20eu%20fa%C3%A7o%20programa!)-blue">
   <div>
 <div>
   <a href="https://github.com/srlukas10">
-  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api?username=srlukas10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180" width="450" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srlukas10&layout=compact&langs_count=7&theme=radical"/>
+  <img height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=srlukas10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180" width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=srlukas10&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="luka-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">

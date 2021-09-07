@@ -2,7 +2,7 @@
 
 👾 Seja bem vindo
 <div>
-  <img src="https://img.shields.io/badge/-console.log(Oi%2C%20eu%20fa%C3%A7o%20programa!)-blue">
+  <img src="https://img.shields.io/badge/-console.log('Oi%2C%20eu%20fa%C3%A7o%20programa!')-blue">
   <div>
 <div>
   <a href="https://github.com/srlukas10">

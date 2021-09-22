@@ -23,7 +23,7 @@
   <div> 
   <a href="https://instagram.com/srlukas.dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/srlukas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:senhorlukassilva@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href = "mailto:senhorlukassilva@gmail.com"><img src="https://img.shields.io/badge/E-mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/srlukas_dev" target="_blank"><img src="https://img.shields.io/badge/-Telegram-%230077B5?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
   <a href="https://api.whatsapp.com/send?phone=559284862248&text=Oi%2C%20vim%20pelo%20Github!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
     

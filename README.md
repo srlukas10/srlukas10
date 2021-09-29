@@ -1,6 +1,6 @@
 # Eae, tudo joia?!
 
-👾 Seja bem vind
+👾 Seja bem vindO
 <div>
   <img src="https://img.shields.io/badge/-console.log('Oi%2C%20eu%20fa%C3%A7o%20programa!')-blue">
   <div>

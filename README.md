@@ -1,9 +1,10 @@
 # Eae, tudo joia?!
 
-👾 Seja bem vindO
+## 👾 Seja bem vindo
 <div>
   <img src="https://img.shields.io/badge/-console.log('Oi%2C%20eu%20fa%C3%A7o%20programa!')-blue">
   <div>
+ 
 <div>
   <a href="https://github.com/srlukas10">
   <img height="180" width="450" src="https://github-readme-stats.vercel.app/api?username=srlukas10&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>

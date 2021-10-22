@@ -26,7 +26,7 @@
   <a href="https://www.linkedin.com/in/srlukas" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:senhorlukassilva@gmail.com"><img src="https://img.shields.io/badge/Email-blueviolet?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://t.me/srlukas_dev" target="_blank"><img src="https://img.shields.io/badge/-Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" target="_blank"></a> 
-  <a href="https://api.whatsapp.com/send?phone=559284862248&text=Oi%2C%20vim%20pelo%20Github!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
+  <a href="https://api.whatsapp.com/send?phone=559288464452&text=Oi%2C%20vim%20pelo%20Github!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-%230077B?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a> 
     
   ![Snake animation](https://github.com/srlukas10/srlukas10/blob/output/github-contribution-grid-snake.svg)
     

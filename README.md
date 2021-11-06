@@ -1,4 +1,4 @@
-# 👾Eae, tudo joia?!
+# 👾Eae, tudo joia?
 
 
 <div>
